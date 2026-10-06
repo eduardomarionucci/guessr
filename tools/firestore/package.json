@@ -1,0 +1,7 @@
+{
+  "name": "geography-firestore-import",
+  "private": true,
+  "type": "module",
+  "scripts": { "import": "node import-capitals.mjs" },
+  "dependencies": { "firebase-admin": "^13.0.0" }
+}
